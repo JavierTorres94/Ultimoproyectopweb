@@ -1,0 +1,44 @@
+*
+{
+    box-sizing: border-box;
+}
+.body
+{
+    background-repeat: fill;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 255, 255), rgb(196, 209, 208));
+}
+.welcome
+{
+    padding: 30px 30px 30px 50px;
+    text-align: center;
+    font-family: "Michroma";
+    font-size: 20px;
+    background-color: rgb(186, 181, 87);
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: double;
+    border-radius: 10px;
+}
+.links
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    border-style: double;
+    background-color: rgb(92, 91, 88);
+    border-radius: 40px;
+}
+.links a
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.links a:hover
+{
+    color: rgb(238, 232, 72);
+}

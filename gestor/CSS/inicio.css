@@ -1,0 +1,72 @@
+
+.body
+{
+    background-repeat: fill;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 255, 255), rgb(188, 199, 198));
+    font-family: Arial, sans-serif;
+}
+.firstoptions summary
+{
+    background-color: rgb(50, 50, 50);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    border: 4px groove wheat;
+    border-radius: 10px 10px 0px 0px;
+}
+.firstoptions summary:hover
+{
+    background-color: rgb(92, 91, 88);
+    color: whitesmoke;
+    cursor: pointer;
+}
+.firstoptions li
+{
+    background-color: rgb(126, 123, 61);
+    border: 4px ridge wheat;
+    text-align: center;
+}
+.firstoptions a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    color: white;
+
+}
+.firstoptions a:hover
+{
+    background-color: rgb(186, 181, 87);
+    color: rgb(33, 33, 33);
+}
+.topimage
+{
+    text-align: center;
+    text-decoration: none;
+}
+.links
+{
+    padding-top: 20px;
+    text-align: center;
+}
+.links a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.links a:hover
+{
+    color: goldenrod;
+}
+.title
+{
+    text-align: center;
+    font-family: "Michroma";
+    font-weight: bold;
+    font-size: 40px;
+}
